@@ -1,6 +1,5 @@
 aws
 linux 
-devops
 
 
 
